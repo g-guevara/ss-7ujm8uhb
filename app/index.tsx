@@ -14,7 +14,7 @@ import {
 } from "react-native";
 
 // URL de tu API (reemplazar con la URL de Vercel cuando esté desplegado)
-const API_URL = "https://ss-7ujm8uhb.vercel.app/"; // Cambiar a tu URL de Vercel
+const API_URL = "https://ss-7ujm8uhb.vercel.app";
 
 // Interfaz para el usuario
 interface User {
